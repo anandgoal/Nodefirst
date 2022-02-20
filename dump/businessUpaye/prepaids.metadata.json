@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"businessUpaye.prepaids"},{"v":2,"unique":true,"key":{"cardNo":1},"name":"cardNo_1","ns":"businessUpaye.prepaids","background":true},{"v":2,"unique":true,"key":{"mobileNo":1},"name":"mobileNo_1","ns":"businessUpaye.prepaids","background":true}],"uuid":"0becfdf309844fa08b0fea92399d4c82"}
